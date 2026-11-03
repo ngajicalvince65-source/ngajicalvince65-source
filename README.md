@@ -31,4 +31,5 @@ Python, R, SQL, QGIS, Tableau, SPSS, KoboToolbox
 | [Retail Sales Dashboard](https://github.com/ngajicalvince65-source/interactive-dashboard-part1) | Linked, click-to-filter analytics on 750,000 records | [Open app](https://interactive-dashboard-part1-dtgx8zsez5chcibnc9ymjk.streamlit.app) |
 | [Arizona Community Dashboard](https://github.com/ngajicalvince65-source/arizona-community-dashboard) | Geospatial joins, choropleth mapping and a composite vulnerability index | [Open app](https://arizona-community-dashboard-hcab45ufxwu2gaanyapp6i7.streamlit.app) |
 | [Fertilizer Recommendation App](https://github.com/ngajicalvince65-source/fertilizer-app) | Decision support for Kenyan farmers with Google Sheets data capture | [Open app](https://fertilizer-app-whsrkbscuz4shrq9zgcxzt.streamlit.app) |
+| [Kenya Crime Analytics Dashboard](https://github.com/ngajicalvince65-source/Kenya-Crime-Dashboard) | Crime analysis for Kenya, 2012 to 2021, with county mapping and ARIMA forecasting | [Open app](https://kenya-crime-ngaji.streamlit.app) |
 
